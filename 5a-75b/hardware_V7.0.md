@@ -264,13 +264,13 @@ Connector J3
 Connector J4
 --------------
 
-| J1 Pin| HUB75 pin | FPGA Pin | Buffer                         | Notes               |
+| J4 Pin| HUB75 pin | FPGA Pin | Buffer                         | Notes               |
 |-------|-----------|----------|--------------------------------|---------------------|
 | 1     | R0        |  P4      |                                |                     |
 | 2     | G0        |  R2      |                                |                     |
 | 3     | B0        |  M8      |                                |                     |
 | 4     | *GND*     |  *GND*   |                                |                     |
-| 5     | R1        |  ?       |                                |                     |
+| 5     | R1        |  M9      |                                |                     |
 | 6     | G1        |  T6      |                                |                     |
 | 7     | B1        |  R6      |                                |                     |
 | 8     | E         |  F15     |                                |                     |
@@ -333,7 +333,7 @@ Connector J6
 Connector J7
 --------------
 
-| J6 Pin| HUB75 pin | FPGA Pin | Buffer                         | Notes               |
+| J7 Pin| HUB75 pin | FPGA Pin | Buffer                         | Notes               |
 |-------|-----------|----------|--------------------------------|---------------------|
 | 1     | R0        | H13      |                                |                     |
 | 2     | G0        | J13      |                                |                     |
@@ -356,7 +356,7 @@ Connector J7
 Connector J8
 --------------
 
-| J6 Pin| HUB75 pin | FPGA Pin | Buffer                         | Notes               |
+| J8 Pin| HUB75 pin | FPGA Pin | Buffer                         | Notes               |
 |-------|-----------|----------|--------------------------------|---------------------|
 | 1     | R0        | A15      |                                |                     |
 | 2     | G0        | F16      |                                |                     |
